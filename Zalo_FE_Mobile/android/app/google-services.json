@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "106449214375",
+    "project_id": "chatappzalo-cbb3f",
+    "storage_bucket": "chatappzalo-cbb3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106449214375:android:1b8d9ec6369f363e9e3482",
+        "android_client_info": {
+          "package_name": "com.zaloclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_TecqU8Krjmkdu5v4lwdsJjjsLaGOQQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
